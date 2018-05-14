@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="dtv"
+    id="3fcda806-c5dd-4da8-9717-7a7022bf75c5">
+  <source
+      xsi:type="archimate:ApplicationEvent"
+      href="ApplicationEvent_24964948-142d-424d-b31d-499d89d7b28b.xml#24964948-142d-424d-b31d-499d89d7b28b"/>
+  <target
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_3d43e13b-d0e1-4b6a-870b-052f1b5c1e4f.xml#3d43e13b-d0e1-4b6a-870b-052f1b5c1e4f"/>
+</archimate:TriggeringRelationship>
