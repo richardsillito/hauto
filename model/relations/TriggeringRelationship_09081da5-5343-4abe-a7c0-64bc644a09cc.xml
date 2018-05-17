@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="wake on lan"
+    id="09081da5-5343-4abe-a7c0-64bc644a09cc">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_5c90b4e1-1079-45cd-8ffd-65c29f6a57a6.xml#5c90b4e1-1079-45cd-8ffd-65c29f6a57a6"/>
+  <target
+      xsi:type="archimate:Equipment"
+      href="Equipment_72c5b035-6966-4314-8ddf-1b0b8761c9db.xml#72c5b035-6966-4314-8ddf-1b0b8761c9db"/>
+</archimate:TriggeringRelationship>
