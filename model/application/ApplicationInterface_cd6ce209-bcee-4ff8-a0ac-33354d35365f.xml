@@ -1,5 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="ins.av.ric.int.kit"
+    name="int.av.ric.kit.ins"
     id="cd6ce209-bcee-4ff8-a0ac-33354d35365f"
     documentation="if av mode is 0 then&#xD;&#xA;enable music&#xD;&#xA;start my play list&#xD;&#xA;"/>

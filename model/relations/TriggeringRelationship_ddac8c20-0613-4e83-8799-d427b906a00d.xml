@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FOn"
     id="ddac8c20-0613-4e83-8799-d427b906a00d">
   <source
       xsi:type="archimate:Equipment"

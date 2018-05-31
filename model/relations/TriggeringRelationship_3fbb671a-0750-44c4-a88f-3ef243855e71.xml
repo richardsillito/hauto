@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fast Off"
     id="3fbb671a-0750-44c4-a88f-3ef243855e71">
   <source
       xsi:type="archimate:Equipment"
