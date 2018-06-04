@@ -1,6 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Disable"
     id="c39f9b02-81a1-4332-bff5-409977055e54">
   <source
       xsi:type="archimate:TechnologyFunction"

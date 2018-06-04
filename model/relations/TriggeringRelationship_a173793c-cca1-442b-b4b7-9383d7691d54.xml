@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="then"
+    id="a173793c-cca1-442b-b4b7-9383d7691d54">
+  <source
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_e2a34282-1407-4799-ba99-d5a8fe01003c.xml#e2a34282-1407-4799-ba99-d5a8fe01003c"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_af9be3b7-2ccf-418b-bf39-97b8747b2ed3.xml#af9be3b7-2ccf-418b-bf39-97b8747b2ed3"/>
+</archimate:TriggeringRelationship>

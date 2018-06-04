@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fast On"
+    id="b83ff884-459c-4f4f-bc0d-44fe1246dc7f">
+  <source
+      xsi:type="archimate:Junction"
+      href="Junction_5016f31c-0c33-4c3e-80e7-eea83b90d799.xml#5016f31c-0c33-4c3e-80e7-eea83b90d799"/>
+  <target
+      xsi:type="archimate:TechnologyFunction"
+      href="TechnologyFunction_d31cee06-63c5-4999-b16c-41afeb2db948.xml#d31cee06-63c5-4999-b16c-41afeb2db948"/>
+</archimate:TriggeringRelationship>
