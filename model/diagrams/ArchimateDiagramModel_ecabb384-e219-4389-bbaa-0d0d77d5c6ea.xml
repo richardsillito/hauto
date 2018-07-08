@@ -950,9 +950,9 @@
         source="1bb21542-74b0-4602-a576-6a1962f2f4d4"
         target="136443a9-72d0-4faf-9c13-c269a86ef67a">
       <bendpoints
-          startX="84"
-          startY="-3"
-          endY="-147"/>
+          startX="144"
+          startY="-2"
+          endY="-146"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_4cb209f8-0967-4430-b293-3ee3240d11c1.xml#4cb209f8-0967-4430-b293-3ee3240d11c1"/>
@@ -976,9 +976,9 @@
         source="8eb3a3fb-a1b5-4b3e-bb1b-5e720d89cfb8"
         target="136443a9-72d0-4faf-9c13-c269a86ef67a">
       <bendpoints
-          startX="84"
-          startY="-3"
-          endY="153"/>
+          startX="144"
+          startY="-2"
+          endY="154"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_406aef37-05cf-4b2e-bd11-247ce5e8af84.xml#406aef37-05cf-4b2e-bd11-247ce5e8af84"/>
@@ -1016,7 +1016,7 @@
       id="136443a9-72d0-4faf-9c13-c269a86ef67a"
       targetConnections="1c8016a6-136b-44eb-b01b-f5107c3ff6c3 24ab570b-5ad6-4e2c-93de-0dcfd6b14063">
     <bounds
-        x="924"
+        x="984"
         y="252"
         width="120"
         height="55"/>
