@@ -828,4 +828,16 @@
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_ee7a92c9-bfc8-41b8-bcb3-23a29350a189.xml#ee7a92c9-bfc8-41b8-bcb3-23a29350a189"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1eefe0a9-42ef-4994-be63-dc4647e233b0">
+    <bounds
+        x="648"
+        y="649"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_a50fb610-4896-48ce-aaca-0d22b4a3bc4f.xml#a50fb610-4896-48ce-aaca-0d22b4a3bc4f"/>
+  </children>
 </archimate:ArchimateDiagramModel>
