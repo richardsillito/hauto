@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Family Room - Movie"
+    id="39922a0b-596f-4c6b-9cf6-1b29215c1a5a"
+    documentation="Start&#xD;&#xA;&#xD;&#xA;Denon Main&#xD;&#xA;- Power on&#xD;&#xA;- Volume set to -25db&#xD;&#xA;- delay 200 ms&#xD;&#xA;- quick select 2&#xD;&#xA;&#xD;&#xA;Apply TV Family Room&#xD;&#xA;- Home&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Stop&#xD;&#xA;&#xD;&#xA;Apply TV&#xD;&#xA;- Home&#xD;&#xA;&#xD;&#xA;Denon Main&#xD;&#xA;- Power Off&#xD;&#xA;"/>

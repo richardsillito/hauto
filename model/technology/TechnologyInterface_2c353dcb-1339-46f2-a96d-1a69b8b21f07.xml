@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Family Room - Music"
+    id="2c353dcb-1339-46f2-a96d-1a69b8b21f07"
+    documentation="Apple iTunes Music&#xD;&#xA;- Set volume to 15 on apple itunes&#xD;&#xA;&#xD;&#xA;Denon Main&#xD;&#xA;- Power On&#xD;&#xA;- Delay 200 ms&#xD;&#xA;- Voume set 0db&#xD;&#xA;- Delay 200 ms&#xD;&#xA;- input dvd&#xD;&#xA;&#xD;&#xA;"/>
