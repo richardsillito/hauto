@@ -1,5 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="int.av.off.fam.ins"
-    id="d8e27f38-ce1d-40be-b907-05a591b4049d"
-    documentation="if dad is using the av system then do nothing (av mode 4)&#xD;&#xA;if quiet mode is 1 then do nothing&#xD;&#xA;otherwise set the mode 1"/>
