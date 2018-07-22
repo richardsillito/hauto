@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="stop"
+    id="6fe426e4-3cc2-433b-b97a-fbe7b7fb2523">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_39922a0b-596f-4c6b-9cf6-1b29215c1a5a.xml#39922a0b-596f-4c6b-9cf6-1b29215c1a5a"/>
+  <target
+      xsi:type="archimate:Junction"
+      href="Junction_b99d87bb-1ca2-4738-8c1c-9c81e0d6e7cd.xml#b99d87bb-1ca2-4738-8c1c-9c81e0d6e7cd"/>
+</archimate:TriggeringRelationship>
