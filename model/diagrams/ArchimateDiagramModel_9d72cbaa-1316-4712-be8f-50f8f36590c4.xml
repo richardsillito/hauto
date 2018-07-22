@@ -638,14 +638,14 @@
         target="d2734755-ebd5-42ec-ad81-b56c15505f88">
       <bendpoints
           startY="-465"
-          endX="120"
+          endX="96"
           endY="95"/>
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_caca5d9b-5c07-4d5e-807f-3c49f40ed174.xml#caca5d9b-5c07-4d5e-807f-3c49f40ed174"/>
     </sourceConnections>
     <bounds
-        x="1188"
+        x="1164"
         y="846"
         width="120"
         height="55"/>
@@ -689,7 +689,7 @@
           href="TriggeringRelationship_288ef21c-4509-4633-8c79-1a07ca479dce.xml#288ef21c-4509-4633-8c79-1a07ca479dce"/>
     </sourceConnections>
     <bounds
-        x="1307"
+        x="1283"
         y="396"
         width="120"
         height="55"/>
@@ -711,8 +711,8 @@
           href="TriggeringRelationship_6194bcfb-a9da-4649-acee-8a54e437a3b5.xml#6194bcfb-a9da-4649-acee-8a54e437a3b5"/>
     </sourceConnections>
     <bounds
-        x="1595"
-        y="396"
+        x="1452"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -775,7 +775,7 @@
           href="TriggeringRelationship_167b8c26-8d4e-47af-aac0-011c6b6f5882.xml#167b8c26-8d4e-47af-aac0-011c6b6f5882"/>
     </sourceConnections>
     <bounds
-        x="1356"
+        x="1308"
         y="846"
         width="120"
         height="55"/>
@@ -846,7 +846,7 @@
           href="TriggeringRelationship_040bf36f-8581-4180-a316-34f871e5c652.xml#040bf36f-8581-4180-a316-34f871e5c652"/>
     </sourceConnections>
     <bounds
-        x="1451"
+        x="1452"
         y="396"
         width="120"
         height="55"/>
@@ -859,8 +859,8 @@
       id="7ca0ad1e-07c4-4189-a1e3-7c42e0307cb5"
       targetConnections="9cde1f84-4163-443b-ba3d-607e8e2e9e4a">
     <bounds
-        x="1595"
-        y="546"
+        x="1452"
+        y="234"
         width="120"
         height="55"/>
     <archimateElement
@@ -1136,7 +1136,7 @@
           href="TriggeringRelationship_b615cfe5-0566-4125-98d0-3d93b08627e7.xml#b615cfe5-0566-4125-98d0-3d93b08627e7"/>
     </sourceConnections>
     <bounds
-        x="1524"
+        x="1452"
         y="846"
         width="120"
         height="55"/>
