@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Kitchen - System Off"
+    id="9b87858f-2e01-42a7-905e-6a79c7c70dbf"
+    documentation="Apple iTunes Music&#xD;&#xA;- Set volume to 15 on apple itunes&#xD;&#xA;&#xD;&#xA;Denon Main&#xD;&#xA;- Power On&#xD;&#xA;- Delay 200 ms&#xD;&#xA;- Voume set 0db&#xD;&#xA;- Delay 200 ms&#xD;&#xA;- input dvd&#xD;&#xA;&#xD;&#xA;"/>

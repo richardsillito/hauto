@@ -1,12 +1,12 @@
-<archimate:FlowRelationship
+<archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="true"
-    id="21d388f9-dd30-4d15-97a6-d2dc6ff984ab">
+    id="ee03aee4-dc1a-4283-8ef7-94e210d32864">
   <source
       xsi:type="archimate:TechnologyEvent"
       href="TechnologyEvent_172978bb-eb09-40f6-b274-e9f2452ca5b9.xml#172978bb-eb09-40f6-b274-e9f2452ca5b9"/>
   <target
       xsi:type="archimate:TechnologyFunction"
       href="TechnologyFunction_cb712d0a-48f3-45b4-acba-3514f7ac29fe.xml#cb712d0a-48f3-45b4-acba-3514f7ac29fe"/>
-</archimate:FlowRelationship>
+</archimate:TriggeringRelationship>
