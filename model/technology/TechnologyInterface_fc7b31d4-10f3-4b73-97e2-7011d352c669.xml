@@ -1,4 +1,5 @@
 <archimate:TechnologyInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="int.lit.on.gar.ent.ins"
-    id="fc7b31d4-10f3-4b73-97e2-7011d352c669"/>
+    name="int.lit.gar.ent.ins"
+    id="fc7b31d4-10f3-4b73-97e2-7011d352c669"
+    documentation="Run Else on the fast on interface&#xD;&#xA;Turn on garage lights&#xD;&#xA;Wait 5 min&#xD;&#xA;Turn off garage lights"/>
