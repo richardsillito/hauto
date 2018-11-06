@@ -1,0 +1,5 @@
+<archimate:TechnologyEvent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="fun.lit.tim.ofrnt.ent.ins"
+    id="c52ab80a-ba77-4a8b-8b44-a41423239276"
+    documentation="if this program is true&#xD;&#xA;&#x9;wait 10 min&#xD;&#xA;&#x9;turn off light&#xD;&#xA;&#x9;run this program (else)"/>

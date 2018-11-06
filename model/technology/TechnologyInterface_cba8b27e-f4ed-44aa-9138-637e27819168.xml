@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="int.lit.fon.ofrnt.ent.ins"
+    id="cba8b27e-f4ed-44aa-9138-637e27819168"
+    documentation="run (else) timer&#xD;&#xA;turn on light&#xD;&#xA;"/>

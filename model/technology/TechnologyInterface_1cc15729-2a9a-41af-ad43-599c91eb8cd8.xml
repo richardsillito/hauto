@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="int.lit.on.ofrnt.ent.ins"
+    id="1cc15729-2a9a-41af-ad43-599c91eb8cd8"
+    documentation="if ofrnt light is on&#xD;&#xA;then&#xD;&#xA;&#x9;run timer (if) timer&#xD;&#xA;else&#xD;&#xA;&#x9;run timer (then) timer&#xD;&#xA;&#x9;turn on light&#xD;&#xA;&#xD;&#xA;&#x9;"/>

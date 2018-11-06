@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off / Fast Off"
+    id="4678ca07-d78d-4a64-a7ea-ec18d28c31f9">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_cfc8573b-046f-4df6-b0f3-df92bfed6620.xml#cfc8573b-046f-4df6-b0f3-df92bfed6620"/>
+  <target
+      xsi:type="archimate:TechnologyEvent"
+      href="TechnologyEvent_93f403f2-11b9-47c1-a9b1-c89907659352.xml#93f403f2-11b9-47c1-a9b1-c89907659352"/>
+</archimate:TriggeringRelationship>

@@ -1,4 +1,5 @@
 <archimate:TechnologyFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="mon.mot.gar.ent.ins"
-    id="80bc94d1-e3f6-40a5-9363-7192ebea09d5"/>
+    id="80bc94d1-e3f6-40a5-9363-7192ebea09d5"
+    documentation="if montion sensor is on and sunup is false&#xD;&#xA;then&#xD;&#xA;&#x9;program (if) timed light"/>
