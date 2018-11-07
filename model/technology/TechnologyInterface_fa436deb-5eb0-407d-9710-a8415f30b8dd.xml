@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="int.lit.off.liv.ins"
+    id="fa436deb-5eb0-407d-9710-a8415f30b8dd"
+    documentation="If all living room light buttons are off&#xD;&#xA;then&#xD;&#xA;&#x9;turn off bright.front"/>

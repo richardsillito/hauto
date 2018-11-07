@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Off"
+    id="b87e0e69-adf7-49e4-a638-4acc712081ce">
+  <source
+      xsi:type="archimate:Equipment"
+      href="Equipment_cc2ac4c0-c456-4d27-865f-b93aff4ba0d3.xml#cc2ac4c0-c456-4d27-865f-b93aff4ba0d3"/>
+  <target
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_fa436deb-5eb0-407d-9710-a8415f30b8dd.xml#fa436deb-5eb0-407d-9710-a8415f30b8dd"/>
+</archimate:TriggeringRelationship>

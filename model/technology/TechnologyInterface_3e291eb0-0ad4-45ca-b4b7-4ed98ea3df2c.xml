@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="int.lit.day.liv.ins"
+    id="3e291eb0-0ad4-45ca-b4b7-4ed98ea3df2c"
+    documentation="if all living room lights buttons are off&#xD;&#xA;then&#xD;&#xA;&#x9;turn on light 95%"/>
