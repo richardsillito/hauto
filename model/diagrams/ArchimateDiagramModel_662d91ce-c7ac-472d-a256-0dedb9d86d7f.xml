@@ -5,18 +5,6 @@
     id="662d91ce-c7ac-472d-a256-0dedb9d86d7f">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="4ac835b8-2552-42d9-9998-443f576ca2a3">
-    <bounds
-        x="1764"
-        y="360"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_c84e9128-900f-46cd-bfc9-b6206aae8200.xml#c84e9128-900f-46cd-bfc9-b6206aae8200"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="7c19bc7b-65f4-428e-8191-c0039ff0a837"
       targetConnections="687b4a19-0deb-4974-8b6a-3f3abd015737">
     <sourceConnections
@@ -62,18 +50,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_3be04442-78a2-45d8-9d2e-1fb2fbe1ba75.xml#3be04442-78a2-45d8-9d2e-1fb2fbe1ba75"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="c1216dec-47ed-48f7-9a72-1581985a48c7">
-    <bounds
-        x="1572"
-        y="564"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_301416eb-a162-47de-8bfa-4420ae226b8c.xml#301416eb-a162-47de-8bfa-4420ae226b8c"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -131,18 +107,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyInterface"
         href="TechnologyInterface_39922a0b-596f-4c6b-9cf6-1b29215c1a5a.xml#39922a0b-596f-4c6b-9cf6-1b29215c1a5a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="80ea9f5e-c6a1-4d81-a27f-c2c2e0eaccb2">
-    <bounds
-        x="1728"
-        y="236"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_323fe88c-14e9-4e62-a3ed-9ead3d0d0083.xml#323fe88c-14e9-4e62-a3ed-9ead3d0d0083"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -624,39 +588,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="5019e1fe-3754-458d-8899-f84f935f5049">
-    <bounds
-        x="1560"
-        y="274"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_4427a2fa-429e-4a46-bb25-a34d36ce7ef8.xml#4427a2fa-429e-4a46-bb25-a34d36ce7ef8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="6616d175-f7b6-4fe6-8177-a841e3308160">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="33aaf8f5-a281-4adc-a1bf-b217c8efa8bd"
-        source="6616d175-f7b6-4fe6-8177-a841e3308160"
-        target="0588295e-7ee7-46f3-b1c4-0c9f8aafe158">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_6194bcfb-a9da-4649-acee-8a54e437a3b5.xml#6194bcfb-a9da-4649-acee-8a54e437a3b5"/>
-    </sourceConnections>
-    <bounds
-        x="1572"
-        y="182"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_cb712d0a-48f3-45b4-acba-3514f7ac29fe.xml#cb712d0a-48f3-45b4-acba-3514f7ac29fe"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="ca756a17-b786-44a6-9fe7-73d51c806ab9"
       targetConnections="82a51cc6-64ea-4b29-ae33-b84346ba9908">
     <sourceConnections
@@ -721,43 +652,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="8357b474-43f5-4e87-a968-7eaa2edff5c2">
-    <bounds
-        x="1572"
-        y="648"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_fa19ccd6-6565-49f8-be8a-1aabdfb559b9.xml#fa19ccd6-6565-49f8-be8a-1aabdfb559b9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="ccbe575e-ace0-46a5-b091-e022b3cb710e">
-    <bounds
-        x="1572"
-        y="744"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyEvent"
-        href="TechnologyEvent_172978bb-eb09-40f6-b274-e9f2452ca5b9.xml#172978bb-eb09-40f6-b274-e9f2452ca5b9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0588295e-7ee7-46f3-b1c4-0c9f8aafe158"
-      targetConnections="33aaf8f5-a281-4adc-a1bf-b217c8efa8bd">
-    <bounds
-        x="1572"
-        y="90"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_ed9ae3d3-c09d-4419-82b7-13f28c438b91.xml#ed9ae3d3-c09d-4419-82b7-13f28c438b91"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="42409f10-3319-4016-a77a-e4cd310d5155"
       targetConnections="07bd10a5-87f6-471d-a0a7-cc024f500808">
     <sourceConnections
@@ -799,40 +693,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_86957056-1d21-4089-8aa2-81184fabb184.xml#86957056-1d21-4089-8aa2-81184fabb184"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0c30fac8-3206-4435-a788-8772f11f1944">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="c6fe6956-9305-4951-8391-969e7565852b"
-        source="0c30fac8-3206-4435-a788-8772f11f1944"
-        target="2773db4e-9deb-47db-bb73-6a834daa3874">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_f7397227-3a1e-4faf-bf42-9dcace38a8a1.xml#f7397227-3a1e-4faf-bf42-9dcace38a8a1"/>
-    </sourceConnections>
-    <bounds
-        x="1572"
-        y="384"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_0389d2b6-54a8-4e20-9770-2751d2b4b97d.xml#0389d2b6-54a8-4e20-9770-2751d2b4b97d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="2773db4e-9deb-47db-bb73-6a834daa3874"
-      targetConnections="c6fe6956-9305-4951-8391-969e7565852b">
-    <bounds
-        x="1572"
-        y="474"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyEvent"
-        href="TechnologyEvent_25d809db-0027-4f5c-9ce3-d33e1c4d1841.xml#25d809db-0027-4f5c-9ce3-d33e1c4d1841"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -992,54 +852,6 @@
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
         href="TechnologyFunction_b85acc39-bf0a-4146-b02d-57c690740b62.xml#b85acc39-bf0a-4146-b02d-57c690740b62"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e88c01ba-09e3-4ebb-a986-aa650ef296a5">
-    <bounds
-        x="1764"
-        y="432"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_c517b32e-e632-4f7e-9e4d-06ce30106766.xml#c517b32e-e632-4f7e-9e4d-06ce30106766"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="a60ab8d8-8137-45c8-b83f-df3212ea9319">
-    <bounds
-        x="1764"
-        y="504"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyEvent"
-        href="TechnologyEvent_977b7579-530a-449c-8079-3cbbf0b18fbf.xml#977b7579-530a-449c-8079-3cbbf0b18fbf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="87ad23be-9d1e-4590-975a-508c2c46d9a6">
-    <bounds
-        x="1728"
-        y="164"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyFunction"
-        href="TechnologyFunction_303b556b-0e87-4306-95df-d9f4b6d8682e.xml#303b556b-0e87-4306-95df-d9f4b6d8682e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="cb162b11-2b49-45d9-8543-ef8706e3fa0a">
-    <bounds
-        x="1728"
-        y="90"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyEvent"
-        href="TechnologyEvent_3cce7fe3-b3e5-46ed-b795-29bdbe8c9ffb.xml#3cce7fe3-b3e5-46ed-b795-29bdbe8c9ffb"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
